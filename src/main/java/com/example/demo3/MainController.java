@@ -10,6 +10,6 @@ public class MainController {
     @GetMapping("/wel")
     @ResponseBody
     public String  controllerMethod(){
-        return "welcome to my first spring boot application ";
+        return "welcome to my first spring boot application with git Demo ";
     }
 }
